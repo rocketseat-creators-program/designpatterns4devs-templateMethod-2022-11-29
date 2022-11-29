@@ -16,7 +16,7 @@ Após finalizar essa aula com certeza você irá entender de uma vez por todas c
 ![BestBuyTemplateBefore](https://user-images.githubusercontent.com/42419543/204650923-757113c6-cca9-4999-934d-a43a955145f9.png)
 
 
-## [Slides](https://docs.google.com/presentation/d/1R0O_EURL8SGRUMCUt4s7WsQBCEQGOLv_MokgA_12RF8/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/1a5nsjYJu2a8C-AoqhxxnyTfz0CAZQITw2K9CEOkypew/edit?usp=sharing)
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/ananeridev) |
